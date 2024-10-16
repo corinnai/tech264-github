@@ -1,4 +1,10 @@
 # SSH to push changes to your GitHub repo
+- [SSH to push changes to your GitHub repo](#ssh-to-push-changes-to-your-github-repo)
+- [Task: Re-create SSH setup to authenticate to GitHub](#task-re-create-ssh-setup-to-authenticate-to-github)
+- [# Task: Document 'Use SSH authentication with a repo on GitHub'](#-task-document-use-ssh-authentication-with-a-repo-on-github)
+  - [Delete test repo and SSH key.](#delete-test-repo-and-ssh-key)
+  - [Use a pre-existing repo, and switch it over to use SSH keys](#use-a-pre-existing-repo-and-switch-it-over-to-use-ssh-keys)
+- [(If time) Task: Use a new Git Bash window to push a change with SSH](#if-time-task-use-a-new-git-bash-window-to-push-a-change-with-ssh)
 
 ![alt text](git.jpg)
 
@@ -106,7 +112,7 @@ git remote set-url origin git@github.com:<github name>/tech264-test-git.git
 
 # (If time) Task: Use a new Git Bash window to push a change with SSH
 
-![alt text](<Screenshot 2024-10-16 195754.jpg>)
+![alt text](<Use a new Git Bash window to push a change with SSH.jpg>)
 
 ```bash
 git push
