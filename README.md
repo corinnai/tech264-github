@@ -135,7 +135,7 @@ ssh -T git@github.com
 eval `ssh-agent -s`
 ```
 ```bash
-ssh-add tech264-maria-github-key
+ssh-add <private key>
 ```
 ```bash
 git push origin main
